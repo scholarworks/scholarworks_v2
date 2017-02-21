@@ -6,11 +6,11 @@ Updated: February 21, 2017
 ## Timeline ##
 
 February, 2017
-|Monday|Tuesday|Wednesday|Thursday|Friday|
+| Monday | Tuesday | Wednesday | Thursday | Friday |
 |---|---|---|---|---|
-|   |   |22 |23 |24 |
+|   |   | 22 | 23 | 24 |
 |   |   |   |   |   |
-|26 |27 |28 |   |   |
+| 26 | 27 | 28 |   |   |
 March, 2017 (Code4Lib - Monday 6th - Friday 10th, LDCX - Monday 26th - Friday 31)
 April, 2017
 May, 2017 (Advanced Hydra Camp - Monday 8th - Wednesday 10th)
