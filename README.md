@@ -16,7 +16,7 @@ Updated: February 21, 2017
 
 | Week of | Monday | Tuesday | Wednesday | Thursday | Friday |
 |---|---|---|---|---|---|
-| 6 | Code4Lib - Monday 6th - Friday 10th |
+| 6 | Code4Lib -- | --- | --- | --- | --> |
 | 13 |  |  |  |  |   |
 | 20 |  |  |  |  |   |
 | 27 |  |  |  |  |   |
