@@ -16,10 +16,10 @@ Updated: February 21, 2017
 
 | Week of | Monday | Tuesday | Wednesday | Thursday | Friday |
 |---|---|---|---|---|---|
-| 6 | Code4Lib -- | --- | --- | --- | --> |
+| 6 | <---- | ------ | Code4Lib | ------- | ----> |
 | 13 |  |  |  |  |   |
 | 20 |  |  |  |  |   |
-| 27 |  |  |  |  |   |
+| 27 | <---- | ------ | LDCX | ------- | ----> |
 
 **April, 2017**
 
